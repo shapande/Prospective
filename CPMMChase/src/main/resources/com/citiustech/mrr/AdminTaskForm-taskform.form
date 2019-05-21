@@ -1,0 +1,143 @@
+
+<form id="1068404021">
+<property name="name" value="AdminTaskForm-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="cpmm_action" type="InputText" id="1733219449">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;action (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/action"/>
+<property name="outputBinding" value="cpmm/action"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="cpmm_addrId" type="InputTextLong" id="1149722732">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;addrId (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/addrId"/>
+<property name="outputBinding" value="cpmm/addrId"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="2" name="cpmm_addrZipCd" type="InputTextLong" id="78405898">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;addrZipCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/addrZipCd"/>
+<property name="outputBinding" value="cpmm/addrZipCd"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="3" name="cpmm_assgdToUser" type="InputText" id="955215861">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;assgdToUser (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/assgdToUser"/>
+<property name="outputBinding" value="cpmm/assgdToUser"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="cpmm_chseDueDt" type="InputDate" id="175258656">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;chseDueDt (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/chseDueDt"/>
+<property name="outputBinding" value="cpmm/chseDueDt"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="5" name="cpmm_cmpgCd" type="InputText" id="885908846">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cmpgCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/cmpgCd"/>
+<property name="outputBinding" value="cpmm/cmpgCd"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="cpmm_cpmmChseCd" type="InputText" id="867137447">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cpmmChseCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/cpmmChseCd"/>
+<property name="outputBinding" value="cpmm/cpmmChseCd"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="cpmm_cpmmChseStsCd" type="InputText" id="58587325">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cpmmChseStsCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/cpmmChseStsCd"/>
+<property name="outputBinding" value="cpmm/cpmmChseStsCd"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="cpmm_loginUser" type="InputText" id="309381837">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;loginUser (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/loginUser"/>
+<property name="outputBinding" value="cpmm/loginUser"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="cpmm_memId" type="InputTextLong" id="1506217514">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;memId (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/memId"/>
+<property name="outputBinding" value="cpmm/memId"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="10" name="cpmm_mocDtlId" type="InputTextLong" id="786930262">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;mocDtlId (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/mocDtlId"/>
+<property name="outputBinding" value="cpmm/mocDtlId"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="11" name="cpmm_msrCd" type="InputText" id="816749483">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;msrCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/msrCd"/>
+<property name="outputBinding" value="cpmm/msrCd"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="cpmm_msrVer" type="InputText" id="1596590915">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;msrVer (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/msrVer"/>
+<property name="outputBinding" value="cpmm/msrVer"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="cpmm_previousActivity" type="InputText" id="1493001229">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;previousActivity (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/previousActivity"/>
+<property name="outputBinding" value="cpmm/previousActivity"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="cpmm_provId" type="InputTextLong" id="406939956">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;provId (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/provId"/>
+<property name="outputBinding" value="cpmm/provId"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="15" name="cpmm_rawChseId" type="InputTextLong" id="2027789427">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;rawChseId (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/rawChseId"/>
+<property name="outputBinding" value="cpmm/rawChseId"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="16" name="cpmm_submsrCd" type="InputText" id="1059432189">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;submsrCd (cpmm)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cpmm/submsrCd"/>
+<property name="outputBinding" value="cpmm/submsrCd"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="cpmm" name="#E9E371" type="dataModelerEntry" outId="cpmm" value="com.citiustech.mrr.CPMM1" id="cpmm"/>
+</form>
